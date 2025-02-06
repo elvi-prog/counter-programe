@@ -1,0 +1,73 @@
+body{
+border-radius: 20px;
+background-color: cornsilk;
+padding: 30px;
+}
+h2{
+    text-align: center;
+    text-decoration-color: crimson;
+    font-weight: 500;
+    font-size: larger;
+    }
+
+#countlabel{
+display: block;
+text-align: center;
+font-size: 100px;
+font-weight: 200;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.btn{
+    text-align: center;
+    
+}
+#decreasebtn{
+    cursor: pointer;
+    gap: 30px;
+    font-weight: 400;
+    font-size: medium;
+    border-radius: 20%;
+    color: black;
+    background-color: cyan;
+}
+#decreasebtn:hover{
+    background-color: gold;
+    }
+    #decreasebtn:active{
+        color: maroon;
+    }
+    #increasebtn{
+        cursor: pointer;
+        gap: 30px;
+        font-weight: 400;
+        font-size: medium;
+        border-radius: 20%;
+        color: black;
+        background-color: cyan;
+    }
+    #increasebtn:hover{
+        background-color: gold;
+        }
+        #increasebtn:active{
+            color: maroon;
+        }
+        #resetbtn{
+            cursor: pointer;
+            gap: 30px;
+            font-weight: 400;
+            font-size: medium;
+            border-radius: 20%;
+            color: black;
+            background-color: cyan;
+        }
+        #resetbtn:hover{
+            background-color: gold;
+            }
+        #resetbtn:active{
+                color: maroon;
+            }
+            .container{
+                max-width: fit-content;
+                background-color: brown;
+            
+            }
